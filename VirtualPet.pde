@@ -1,17 +1,17 @@
 void setup() 
 {
   size(400,400);
-  background(180,220,255);
+  background (203,240,249);
 }
 void draw()
 {
  noStroke();
  
-  fill(225,165,0);
+ fill(225,165,0);
  triangle(175,285,175,310,125,310);
  triangle(225,285,225,310,275,310);
- 
-  fill(200,0,0);
+  
+  fill(75,104,184);
   ellipse(200,110,140,140);
   ellipse(200,200,160,200); 
   
